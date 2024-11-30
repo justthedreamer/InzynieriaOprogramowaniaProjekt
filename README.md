@@ -1,7 +1,7 @@
 ﻿# PIRS - Parcel Issue Reporting System
 
 Aplikacja dająca możliwość raportowania nieprawidłowości związanych z transportem przesyłek, automatami składującymi
-przesyłki oraz aplikacji mobilnej.<br>
+przesyłki oraz aplikacją mobilną.<br>
 Aplikacja ma na celu ułatwienie procesu zgłaszania, oraz procesowania zgłoszeń w firmie kurierskiej.
 Jako źródło danych o przesyłkach, klientach oraz aplikacji mobilnej, system integruje się
 z istniejącymi systemami firmy.
