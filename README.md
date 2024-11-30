@@ -68,8 +68,6 @@ rozproszonym środowisku.
 | FUNC-04 | Wszystkie działania podejmowane przez pracowników w ramach realizacji zgłoszeń muszą być rejestrowane w systemie jako zdarzenia z odpowiednimi metadanymi (np. czas, identyfikator użytkownika, opis działania). | Wysoki        |
 | FUNC-05 | System powinien umożliwiać osobom szczebla kierowniczego przydzielanie odpowiednich uprawnień dla pracowników.                                                                                                   | Wysoki        |
 
-## Wymagania poza-funkcjonalne
-
 ## Wymagania niefunkcjonalne
 
 | **ID**   | **Opis wymagania**                                                                                        | **Priorytet** |
