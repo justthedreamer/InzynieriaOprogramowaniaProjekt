@@ -35,7 +35,7 @@ rozproszonym środowisku.
 
 ### Ticket Management Service
 
-> Odpowiedzialny za procesowanie zgłoszeń przez pracowników.
+> Odpowiedzialny za procesowanie oraz odczyt zgłoszeń przez pracowników.
 
 **Design Patterns**
 
